@@ -1,5 +1,7 @@
 # XXE_OOB
+
 #Metete en el codigo para ver comentado cada comando
+
 #!/bin/bash
 
 echo -ne "\n[+] Introduce el archivo a leer: " && read -r miarchivo
